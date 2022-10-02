@@ -3,5 +3,5 @@ for n in range(2,10):
         if n%x ==0:
             print(n,'equal',x,'*',n//x)
             break
-        else:
-            print(n,"is a prime number")
+    else:
+        print(n,"is a prime number")
